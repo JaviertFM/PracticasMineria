@@ -1,0 +1,3 @@
+Libreta1 comentada -  https://www.kaggle.com/code/javiertomas/coffee-maker-sentiment-predictor
+
+Libreta1 comentada  - https://www.kaggle.com/code/javiertomas/data-preprocessing-and-analysis 
